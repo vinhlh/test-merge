@@ -1,3 +1,3 @@
 # test-merge
 
-// from test
+# test master
